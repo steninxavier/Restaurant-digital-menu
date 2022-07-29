@@ -1,4 +1,4 @@
-![MENU](Menu design.PNG)
+
 
 # Getting Started with Create React App
 
